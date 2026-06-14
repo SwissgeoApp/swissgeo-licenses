@@ -1,7 +1,7 @@
 {
   "algorithm": "Ed25519",
   "payload": {
-    "generated_at": "2026-06-14T20:16:31.231655Z",
+    "generated_at": "2026-06-14T20:25:18.818671Z",
     "licenses": [
       {
         "activated_at": "2026-06-14T19:54:39.769375Z",
@@ -13,6 +13,6 @@
       }
     ]
   },
-  "signature": "gYIRwZKRbi4ytTZj1vDuIHaxg+XmbQEd4pv5PTX4OswzMREAMz92Ye0QR3ePPcda0k+KkaHQ1i2zjWZ6ij9IBA==",
+  "signature": "eihydAZRlCVp9gNDPO468DTw6/+Vrk3hNF4u3Js04Jd8lerrQ6T8nkjA6yct88cSCGR665ZWqJN9IMdTkKmpAw==",
   "version": 1
 }
