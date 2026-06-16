@@ -1,18 +1,18 @@
 {
   "algorithm": "Ed25519",
   "payload": {
-    "generated_at": "2026-06-16T14:38:56.351769Z",
+    "generated_at": "2026-06-16T14:39:32.441178Z",
     "licenses": [
       {
         "activated_at": "2026-06-14T19:54:39.769375Z",
         "expires_at": null,
         "license_id": "SG-3CC1B527-5A0E49F6",
         "machine_fingerprint": "89fd6a0f0678fceb92e8d6b95355263b873b23a2c9be59c7466eac9199684ba0",
-        "status": "revoked",
+        "status": "active",
         "type": "permanent"
       }
     ]
   },
-  "signature": "1TrQSa8n7vB9e0LA2X/QExxvPsuxvInaMCU5rPzNAkhfTW0J5U6EPBzsiSuIJQt/AQWKXVyVF9vUTCLKajGgBQ==",
+  "signature": "9lAwbBe2t5P9BBZGm1HpsSUVBuY85Cv6pSwQMxXV9xn4mQqUfg4eHiCaSO4qOeG4P5yDF1Puz0cQO/Ovaq1lDQ==",
   "version": 1
 }
