@@ -1,7 +1,7 @@
 {
   "algorithm": "Ed25519",
   "payload": {
-    "generated_at": "2026-06-18T08:25:11.288552Z",
+    "generated_at": "2026-06-18T15:37:51.036566Z",
     "licenses": [
       {
         "activated_at": "2026-06-14T19:54:39.769375Z",
@@ -18,9 +18,17 @@
         "machine_fingerprint": "6b4ee1ed428fc284da4731badd400b2062ac70acfedb53e274495f8a76038f26",
         "status": "active",
         "type": "quarterly"
+      },
+      {
+        "activated_at": "2026-06-18T15:37:48.165664Z",
+        "expires_at": "2026-09-18T15:37:48.165664Z",
+        "license_id": "SG-EDDBE474-1304442B",
+        "machine_fingerprint": "eaf8c1edb6ae57b3b2780567b701e7157dea505b6fee146b43bb1925c59319ba",
+        "status": "active",
+        "type": "quarterly"
       }
     ]
   },
-  "signature": "FFIC0sfZrd/7OLFTA7BE+1rYp8YCZUFYgDSfXBmg+Ws+croeECafzXDpLQZ2o0e+vj9q60yeVMuGGHoOeP++CQ==",
+  "signature": "pyqlCqrZSt47/7N6Evcm1jl6moSIX8ZEBxL36ijDDakEHuZwtlKjzY0SczYFRcDjBA/gYzkICHyBNTKpwHgfBA==",
   "version": 1
 }
