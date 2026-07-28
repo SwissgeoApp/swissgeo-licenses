@@ -1,7 +1,7 @@
 {
   "algorithm": "Ed25519",
   "payload": {
-    "generated_at": "2026-06-30T12:57:25.276127Z",
+    "generated_at": "2026-07-28T17:50:53.700882Z",
     "licenses": [
       {
         "activated_at": "2026-06-14T19:54:39.769375Z",
@@ -16,7 +16,7 @@
         "expires_at": "2026-09-18T08:25:08.489989Z",
         "license_id": "SG-BC85313D-89184CCF",
         "machine_fingerprint": "6b4ee1ed428fc284da4731badd400b2062ac70acfedb53e274495f8a76038f26",
-        "status": "active",
+        "status": "revoked",
         "type": "quarterly"
       },
       {
@@ -29,6 +29,6 @@
       }
     ]
   },
-  "signature": "23up2J1ruzmTxazvyjHHRQ63z7DC4Q/qgxVjoTMisV3lqVUmCoYgL5jb2JBtWAiEHIXRZn98WVGrljj5X9fWBg==",
+  "signature": "E7US4TDtgdccFC877+OB9aA96bbemYkRh4PpISgHhWz4GRQ9FS4xJBwq+5svxR1UievsR82Mw60NocEWQ5tcDA==",
   "version": 1
 }
